@@ -4,7 +4,7 @@
 
 [About](#about)
 
-[Futures](#futures)
+[Features](#features)
 
 [Props](#props)
 
@@ -13,7 +13,7 @@
 ## About
 Simple Vue.js draggable modal dialog component with multiple settings.
 
-## Futures
+## Features
 
 1. Draggable dialog
 1. Hidding controls completely or separetely
